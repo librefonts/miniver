@@ -1,0 +1,42 @@
+Fonts
+  Font:
+    Common name: Miniver
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2011 by Open Window (dathanboardman@gmail.com) with Reseved Font Name "Miniver"
+    License: This Font Software is licensed under the SIL Open Font License,
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000
+    Vendor: Open Window
+    Vendor url: http://www.fontbros.com/openwindow.php
+    Designer: Dathan Boardman
+    Designer url: http://www.fontbros.com/openwindow.php
+    Glyph count: 229
+    Character count: 228
+    Orthographies:
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 96
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 1
